@@ -31,12 +31,14 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 - **Ethical Hacker Training** – Fokus auf Schwachstellenanalyse in Netzwerken
 - **FISI Umschulung** – Theoretische und praktische Ausbildung zum Systemintegrator
 
+👉 **[Alle Zertifikate auf Credly ansehen](https://www.credly.com/users/rifat-arslan/badges#credly)**
+
 ---
 
 ### 🌐 Kontakt & Portfolio
 Besuchen Sie gerne meine Website für weitere Informationen zu meinem Werdegang:
 
-👉 **[rifatarslan.dev](https://rifatarslan.dev/?ref=WN-CB5A20)**
+👉 **[rifatarslan.dev](https://rifatarslan.dev/?ref=WN-CB5A20)** | **[LinkedIn](https://www.linkedin.com/in/rifat-arslan/)**
 
 ---
 

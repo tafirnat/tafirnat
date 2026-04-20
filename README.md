@@ -21,11 +21,13 @@
 ---
 
 ### 🚀 Suche Pflichtpraktikum (Okt 2026 – Juli 2027)
-Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Systemintegration und suche für den Zeitraum von **Oktober 2026 bis Juli 2027** ein **9-monatiges Pflichtpraktikum** im Raum **Heilbronn**. 
+Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Systemintegration (GFN GmbH) und suche für den Zeitraum von **Oktober 2026 bis Juli 2027** ein **9-monatiges Pflichtpraktikum** im Raum **Heilbronn**. 
+
+💰 **Kostenfrei für Ihren Betrieb:** Da es sich um ein unbezahltes Pflichtpraktikum im Rahmen einer Umschulung handelt, entstehen für Ihr Unternehmen **keine Lohn- oder Lohnnebenkosten**.
 
 - **📍 Standort:** Heilbronn & Umgebung
 - **🎯 Fokus:** Netzwerkadministration, IT-Sicherheit, Infrastruktur-Betrieb
-- **💡 Soft Skills:** Lernbereit, diszipliniert, teamfähig und lösungsorientiert.
+- **🔗 Details:** [Alle Informationen & Rahmenbedingungen zum Praktikum](https://rifatarslan.dev/praktikum?ref=WN-CB5A21)
 
 ---
 

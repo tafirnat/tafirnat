@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=tafirnat&label=Besucher&color=9effd1&labelColor=2d3436&base=879&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=tafirnat&label=Besucher&color=51ffb1&labelColor=2d3436&base=879&style=flat-square">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

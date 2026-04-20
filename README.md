@@ -72,7 +72,8 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
       <td align="center" width="120">
         <a href="https://www.netacad.com/courses/ethical-hacker?courseLang=en-US">
           <img src="images/badges/EthicalHacker.png" width="80"><br/>
-          <sub>Ethical Hacker</sub>
+          <sub>Ethical Hacker</sub><br/>
+          <img src="https://img.shields.io/badge/Status-Laufend-lightgrey?style=flat-square">
         </a>
       </td>
       <td align="center" width="120">

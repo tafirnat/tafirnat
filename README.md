@@ -111,20 +111,31 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 <h2 align="center">🧩 Chrome Extensions</h2>
 
 <div align="center">
-  <a href="https://chromewebstore.google.com/detail/quickmarks/hancgampfoojdffiebepnihadoeapjdl">
-    <img src="images/quickmarks.png" width="45"><br/>
-    <b>QuickMarks</b>
-  </a>
-  <br/><br/>
-  <a href="https://chromewebstore.google.com/detail/big-clock-hour/afmfkmlbijkfckclohpfdboeccobfnij">
-    <img src="images/big-clock-hour.png" width="45"><br/>
-    <b>Big Clock | Hour</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/big-clock-minute/cpgehceoalhakjceioddjajneophlfko">
-    <img src="images/big-clock-minute.png" width="45"><br/>
-    <b>Big Clock | Minute</b>
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://chromewebstore.google.com/detail/quickmarks/hancgampfoojdffiebepnihadoeapjdl">
+          <img src="images/quickmarks.png" width="45"><br/>
+          <b>QuickMarks</b>
+        </a>
+      </td>
+    </tr>
+    <tr><td height="20"></td></tr>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://chromewebstore.google.com/detail/big-clock-hour/afmfkmlbijkfckclohpfdboeccobfnij">
+          <img src="images/big-clock-hour.png" width="45"><br/>
+          <b>Big Clock | Hour</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://chromewebstore.google.com/detail/big-clock-minute/cpgehceoalhakjceioddjajneophlfko">
+          <img src="images/big-clock-minute.png" width="45"><br/>
+          <b>Big Clock | Minute</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

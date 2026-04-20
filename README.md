@@ -32,7 +32,7 @@ Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Systemint
 ### 🛠️ Fachkenntnisse & Labor-Erfahrung
 Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerken.
 
-- **Netzwerktechnik:** Konfiguration von Cisco-Komponenten, VLAN-Segmentierung, Routing (Static, OSPF), ACLs und Port Security.
+- **Netzwerktechnik:** Konfiguration von Cisco-Komponenten, VLAN-Segmentierung, Routing (Static, OSPF), ACLs and Port Security.
 - **IT-Sicherheit:** Grundlagen des Ethical Hacking, Firewall-Regelwerke und Netzwerkanalyse.
 - **Server & Dienste:** Administration von DNS, DHCP und Active Directory sowie grundlegende Linux-Kenntnisse.
 - **Virtualisierung:** Aufbau komplexer Topologien in Cisco Packet Tracer sowie Administration von VMs (VMware/VirtualBox).
@@ -50,44 +50,59 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 <h2 align="center">👨‍💻 Ausgewählte Projekte</h2>
 
+<div align="center">
 <!-- Row 1: Exam App & Port Quiz -->
-<div align="center">
-  <a href="https://github.com/tafirnat/exam-app">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-  <a href="https://github.com/tafirnat/Port-Quiz">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-</div>
-<div align="center">
-  <a href="https://tafirnat.github.io/exam-app/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tafirnat.github.io/Port-Quiz/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
-</div>
-<br/>
-
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tafirnat/exam-app">
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
+        </a>
+        <a href="https://tafirnat.github.io/exam-app/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+      </td>
+      <td align="center">
+        <a href="https://github.com/tafirnat/Port-Quiz">
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
+        </a>
+        <a href="https://tafirnat.github.io/Port-Quiz/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+      </td>
+    </tr>
+    <tr><td height="20"></td></tr>
 <!-- Row 2: Efficiency Calculator & Datenübertragung -->
-<div align="center">
-  <a href="https://github.com/tafirnat/efficiency-calculator">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-  <a href="https://github.com/tafirnat/Daten-bertragung">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-</div>
-<div align="center">
-  <a href="https://tafirnat.github.io/efficiency-calculator/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tafirnat.github.io/Daten-bertragung/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
-</div>
-<br/>
-
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tafirnat/efficiency-calculator">
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
+        </a>
+        <a href="https://tafirnat.github.io/efficiency-calculator/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+      </td>
+      <td align="center">
+        <a href="https://github.com/tafirnat/Daten-bertragung">
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
+        </a>
+        <a href="https://tafirnat.github.io/Daten-bertragung/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
+        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+      </td>
+    </tr>
+    <tr><td height="20"></td></tr>
 <!-- Row 3: Chrome Extension -->
-<div align="center">
-  <a href="https://github.com/tafirnat/chrome-extension">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=chrome-extension&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-</div>
-<div align="center">
-  ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/tafirnat/chrome-extension">
+          <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=chrome-extension&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
+        </a>
+        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">

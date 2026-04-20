@@ -76,6 +76,26 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 ---
 
+<h2 align="center">🧩 Chrome Extensions</h2>
+
+<div align="center">
+  <a href="https://chromewebstore.google.com/detail/big-clock-hour/afmfkmlbijkfckclohpfdboeccobfnij" title="Big Clock Hour">
+    <img src="images/hour.png" width="45">
+  </a>
+  <a href="https://chromewebstore.google.com/detail/big-clock-minute/cpgehceoalhakjceioddjajneophlfko" title="Big Clock Minute">
+    <img src="images/minute.png" width="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chromewebstore.google.com/detail/quickmarks/hancgampfoojdffiebepnihadoeapjdl" title="QuickMarks">
+    <img src="images/quick_marks.png" width="45">
+  </a>
+  <br/>
+  <p><b>Big Clock (Hour & Minute):</b> Synchrone duale Zeitanzeige für den Browser.<br/>
+  <b>QuickMarks:</b> Effektives und schnelles Bookmark-Management.</p>
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafirnat&show_icons=true&theme=transparent&hide_border=true&title_color=51ffb1&text_color=586069&icon_color=51ffb1" alt="Rifats GitHub Stats" />
 </p>

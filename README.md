@@ -80,17 +80,17 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/quickmarks/hancgampfoojdffiebepnihadoeapjdl">
-    <img src="images/quick_marks.png" width="45"><br/>
+    <img src="images/quickmarks.png" width="45"><br/>
     <b>QuickMarks</b>
   </a>
   <br/><br/>
   <a href="https://chromewebstore.google.com/detail/big-clock-hour/afmfkmlbijkfckclohpfdboeccobfnij">
-    <img src="images/hour.png" width="45"><br/>
+    <img src="images/big-clock-hour.png" width="45"><br/>
     <b>Big Clock | Hour</b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/big-clock-minute/cpgehceoalhakjceioddjajneophlfko">
-    <img src="images/minute.png" width="45"><br/>
+    <img src="images/big-clock-minute.png" width="45"><br/>
     <b>Big Clock | Minute</b>
   </a>
 </div>

@@ -32,7 +32,7 @@ Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Systemint
 ### 🛠️ Fachkenntnisse & Labor-Erfahrung
 Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerken.
 
-- **Netzwerktechnik:** Konfiguration von Cisco-Komponenten, VLAN-Segmentierung, Routing (Static, OSPF), ACLs and Port Security.
+- **Netzwerktechnik:** Konfiguration von Cisco-Komponenten, VLAN-Segmentierung, Routing (Static, OSPF), ACLs und Port Security.
 - **IT-Sicherheit:** Grundlagen des Ethical Hacking, Firewall-Regelwerke und Netzwerkanalyse.
 - **Server & Dienste:** Administration von DNS, DHCP und Active Directory sowie grundlegende Linux-Kenntnisse.
 - **Virtualisierung:** Aufbau komplexer Topologien in Cisco Packet Tracer sowie Administration von VMs (VMware/VirtualBox).
@@ -51,7 +51,6 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 <h2 align="center">👨‍💻 Ausgewählte Projekte</h2>
 
 <div align="center">
-<!-- Row 1: Exam App & Port Quiz -->
   <table border="0">
     <tr>
       <td align="center">
@@ -60,7 +59,8 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
         </a>
         <a href="https://tafirnat.github.io/exam-app/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
         <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
+        🌐 <a href="https://tafirnat.github.io/exam-app/">Live Demo</a>
       </td>
       <td align="center">
         <a href="https://github.com/tafirnat/Port-Quiz">
@@ -68,11 +68,11 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
         </a>
         <a href="https://tafirnat.github.io/Port-Quiz/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
         <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
+        🌐 <a href="https://tafirnat.github.io/Port-Quiz/">Live Demo</a>
       </td>
     </tr>
     <tr><td height="20"></td></tr>
-<!-- Row 2: Efficiency Calculator & Datenübertragung -->
     <tr>
       <td align="center">
         <a href="https://github.com/tafirnat/efficiency-calculator">
@@ -80,7 +80,8 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
         </a>
         <a href="https://tafirnat.github.io/efficiency-calculator/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
         <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
+        🌐 <a href="https://tafirnat.github.io/efficiency-calculator/">Live Demo</a>
       </td>
       <td align="center">
         <a href="https://github.com/tafirnat/Daten-bertragung">
@@ -88,11 +89,11 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
         </a>
         <a href="https://tafirnat.github.io/Daten-bertragung/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
         <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange">
+        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
+        🌐 <a href="https://tafirnat.github.io/Daten-bertragung/">Live Demo</a>
       </td>
     </tr>
     <tr><td height="20"></td></tr>
-<!-- Row 3: Chrome Extension -->
     <tr>
       <td align="center" colspan="2">
         <a href="https://github.com/tafirnat/chrome-extension">
@@ -104,14 +105,6 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
     </tr>
   </table>
 </div>
-
-<p align="center">
-  🌐 <b>Live Demos:</b> 
-  <a href="https://tafirnat.github.io/exam-app/">Exam App</a> | 
-  <a href="https://tafirnat.github.io/Port-Quiz/">Port Quiz</a> | 
-  <a href="https://tafirnat.github.io/efficiency-calculator/">Efficiency Calc</a> | 
-  <a href="https://tafirnat.github.io/Daten-bertragung/">Datenübertragung</a>
-</p>
 
 ---
 

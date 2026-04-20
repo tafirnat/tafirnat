@@ -50,29 +50,53 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 <h2 align="center">👨‍💻 Ausgewählte Projekte</h2>
 
+<!-- Row 1: Exam App & Port Quiz -->
 <div align="center">
-  <a href="https://github.com/tafirnat/Port-Quiz">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-  <a href="https://github.com/tafirnat/efficiency-calculator">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/tafirnat/Daten-bertragung">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
-  </a>
   <a href="https://github.com/tafirnat/exam-app">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+  <a href="https://github.com/tafirnat/Port-Quiz">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
   </a>
 </div>
+<div align="center">
+  <a href="https://tafirnat.github.io/exam-app/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tafirnat.github.io/Port-Quiz/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
+</div>
 <br/>
+
+<!-- Row 2: Efficiency Calculator & Datenübertragung -->
+<div align="center">
+  <a href="https://github.com/tafirnat/efficiency-calculator">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+  <a href="https://github.com/tafirnat/Daten-bertragung">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+</div>
+<div align="center">
+  <a href="https://tafirnat.github.io/efficiency-calculator/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tafirnat.github.io/Daten-bertragung/">![Demo](https://img.shields.io/badge/Demo-Online-brightgreen.svg)</a> ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
+</div>
+<br/>
+
+<!-- Row 3: Chrome Extension -->
 <div align="center">
   <a href="https://github.com/tafirnat/chrome-extension">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=chrome-extension&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=chrome-extension&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
   </a>
 </div>
+<div align="center">
+  ![MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
+</div>
+
+<p align="center">
+  🌐 <b>Live Demos:</b> 
+  <a href="https://tafirnat.github.io/exam-app/">Exam App</a> | 
+  <a href="https://tafirnat.github.io/Port-Quiz/">Port Quiz</a> | 
+  <a href="https://tafirnat.github.io/efficiency-calculator/">Efficiency Calc</a> | 
+  <a href="https://tafirnat.github.io/Daten-bertragung/">Datenübertragung</a>
+</p>
 
 ---
 

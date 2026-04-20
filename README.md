@@ -39,12 +39,57 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 ---
 
-### 📜 Zertifizierungen & Bildung
-- **Cisco Certified Network Associate (CCNA)** – Kursabschluss & Prüfungsvorbereitung
-- **Ethical Hacker Training** – Fokus auf Schwachstellenanalyse in Netzwerken
-- **FISI Umschulung** – Theoretische und praktische Ausbildung zum Systemintegrator
-
-👉 **[Alle Zertifikate auf Credly ansehen](https://www.credly.com/users/rifat-arslan/badges#credly)**
+<h2 align="center">📜 Zertifikate & Kurse</h2>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.credly.com/badges/9f16f964-eddd-4014-92c0-7c322e56db9d">
+          <img src="images/badges/CCNA1.png" width="80"><br/>
+          <sub>CCNA-1</sub>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.credly.com/badges/c98c6c1e-57a1-40b2-80cb-1a72561dbdbc">
+          <img src="images/badges/CCNA2.png" width="80"><br/>
+          <sub>CCNA-2</sub>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.credly.com/badges/7fdfd8f3-3754-4d51-a572-c5a4656a3a68">
+          <img src="images/badges/CCNA3.png" width="80"><br/>
+          <sub>CCNA-3</sub>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.credly.com/badges/0fd43bd0-7518-45a4-8552-eeed9c8b409b">
+          <img src="images/badges/linux.png" width="80"><br/>
+          <sub>LPI Linux</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.netacad.com/courses/ethical-hacker?courseLang=en-US">
+          <img src="images/badges/EthicalHacker.png" width="80"><br/>
+          <sub>Ethical Hacker</sub>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://coursera.org/share/797d1b3f9802ee086d807e5a5cd8b9f1">
+          <img src="images/badges/python.png" width="80"><br/>
+          <sub>Python Basics</sub>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.credly.com/badges/1804cdbc-fed1-4008-befc-16fa9487ba8d">
+          <img src="images/badges/NIS2.png" width="80"><br/>
+          <sub>NIS2 Lead Imp.</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

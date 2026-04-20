@@ -48,6 +48,34 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen und sicheren Netzwerk
 
 ---
 
+<h2 align="center">👨‍💻 Ausgewählte Projekte</h2>
+
+<div align="center">
+  <a href="https://github.com/tafirnat/Port-Quiz">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+  <a href="https://github.com/tafirnat/efficiency-calculator">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/tafirnat/Daten-bertragung">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+  <a href="https://github.com/tafirnat/exam-app">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/tafirnat/chrome-extension">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tafirnat&repo=chrome-extension&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10">
+  </a>
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tafirnat&show_icons=true&theme=transparent&hide_border=true&title_color=51ffb1&text_color=586069&icon_color=51ffb1" alt="Rifats GitHub Stats" />
 </p>

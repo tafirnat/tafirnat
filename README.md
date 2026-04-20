@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tafirnat.tafirnat&color=51ffb1">
+<img align="right" src="https://komarev.com/ghpvc/?username=tafirnat&label=Besucher&color=51ffb1&base=879&style=flat-square">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,9 +7,15 @@
 </h1>
 
 <p align="center">
-  <code><a href="https://rifatarslan.dev/?ref=WN-CB5A20" title="Website"><img width="18" src="https://cdn.simpleicons.org/internetexplorer/51ffb1"> Website</a></code>
-  <code><a href="https://www.linkedin.com/in/rifat-arslan/" title="LinkedIn Profile"><img width="18" src="https://cdn.simpleicons.org/linkedin/51ffb1"> LinkedIn</a></code>
-  <code><a href="https://www.credly.com/users/rifat-arslan/badges#credly" title="Credly Profile"><img width="18" src="https://cdn.simpleicons.org/credly/51ffb1"> Credly</a></code>
+  <a href="https://rifatarslan.dev/?ref=WN-CB5A20" title="Website">
+    <img src="https://img.shields.io/badge/Website-51ffb1?style=flat-square&logo=google-chrome&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/rifat-arslan/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-51ffb1?style=flat-square&logo=linkedin&logoColor=black">
+  </a>
+  <a href="https://www.credly.com/users/rifat-arslan/badges#credly" title="Credly Profile">
+    <img src="https://img.shields.io/badge/Credly-51ffb1?style=flat-square&logo=credly&logoColor=black">
+  </a>
 </p>
 
 ---

@@ -16,18 +16,10 @@
   <a href="https://www.credly.com/users/rifat-arslan/badges#credly" title="Credly Profile">
     <img src="https://img.shields.io/badge/Credly-51ffb1?style=flat-square&logo=credly&logoColor=2d3436">
   </a>
+  <a href="https://rifatarslan.dev/praktikum?ref=WN-CB5A21" title="IHK-Pflichtpraktikum">
+    <img src="https://img.shields.io/badge/IHK--Pflichtpraktikum-Okt%202026–Jul%202027-51ffb1?style=flat-square&logo=briefcase&logoColor=2d3436">
+  </a>
 </p>
-
----
-
-### 🚀 Suche Pflichtpraktikum (Okt 2026 – Juli 2027)
-Ich befinde mich derzeit in einer Ausbildung zum Fachinformatiker für Systemintegration (GFN GmbH) und suche für den Zeitraum von **Oktober 2026 bis Juli 2027** ein **IHK-Pflichtpraktikum** im Raum **Heilbronn-Franken**.
-
-💰 **Kostenneutral für Ihren Betrieb:** Da es sich um ein IHK-Pflichtpraktikum im Rahmen einer Ausbildung handelt, entstehen für Ihr Unternehmen **keine Lohn- oder Lohnnebenkosten**.
-
-- **📍 Standort:** Heilbronn-Franken
-- **🎯 Fokus:** Netzwerkadministration, IT-Sicherheit, Infrastruktur-Betrieb
-- **🔗 Details:** [Alle Informationen & Rahmenbedingungen zum Praktikum](https://rifatarslan.dev/praktikum?ref=WN-CB5A21)
 
 ---
 

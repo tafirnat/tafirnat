@@ -16,6 +16,9 @@
   <a href="https://www.credly.com/users/rifat-arslan/badges#credly" title="Credly Profile">
     <img src="https://img.shields.io/badge/Credly-51ffb1?style=flat-square&logo=credly&logoColor=2d3436">
   </a>
+</p>
+
+<p align="center">
   <a href="https://rifatarslan.dev/praktikum?ref=WN-CB5A21" title="IHK-Pflichtpraktikum">
     <img src="https://img.shields.io/badge/IHK--Pflichtpraktikum-Okt%202026–Jul%202027-51ffb1?style=flat-square&logo=briefcase&logoColor=2d3436">
   </a>

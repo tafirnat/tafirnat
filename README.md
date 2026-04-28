@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo,+ich+bin+Rifat!+👋;Fachinformatiker+Systemintegration+i.U.;Fokus:+Netzwerk+%26+Security&center=true&size=28&color=51ffb1&width=600">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo,+ich+bin+Rifat+Arslan!+👋;Fachinformatiker+Systemintegration+i.A.;Fokus:+Netzwerk+%26+Security&center=true&size=28&color=51ffb1&width=600">
   </a>
 </h1>
 
@@ -21,11 +21,11 @@
 ---
 
 ### 🚀 Suche Pflichtpraktikum (Okt 2026 – Juli 2027)
-Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Systemintegration (GFN GmbH) und suche für den Zeitraum von **Oktober 2026 bis Juli 2027** ein **9-monatiges Pflichtpraktikum** im Raum **Heilbronn**. 
+Ich befinde mich derzeit in einer Ausbildung zum Fachinformatiker für Systemintegration (GFN GmbH) und suche für den Zeitraum von **Oktober 2026 bis Juli 2027** ein **IHK-Pflichtpraktikum** im Raum **Heilbronn-Franken**.
 
-💰 **Kostenfrei für Ihren Betrieb:** Da es sich um ein unbezahltes Pflichtpraktikum im Rahmen einer Umschulung handelt, entstehen für Ihr Unternehmen **keine Lohn- oder Lohnnebenkosten**.
+💰 **Kostenneutral für Ihren Betrieb:** Da es sich um ein IHK-Pflichtpraktikum im Rahmen einer Ausbildung handelt, entstehen für Ihr Unternehmen **keine Lohn- oder Lohnnebenkosten**.
 
-- **📍 Standort:** Heilbronn & Umgebung
+- **📍 Standort:** Heilbronn-Franken
 - **🎯 Fokus:** Netzwerkadministration, IT-Sicherheit, Infrastruktur-Betrieb
 - **🔗 Details:** [Alle Informationen & Rahmenbedingungen zum Praktikum](https://rifatarslan.dev/praktikum?ref=WN-CB5A21)
 

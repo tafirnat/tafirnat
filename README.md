@@ -27,10 +27,10 @@
 ---
 
 ### 🛠️ Fachkenntnisse & Systemarchitektur
-Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwerken, Sanallaştırma und sicherer Infrastruktur.
+Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwerken, Virtualisierung und sicherer Infrastruktur.
 
 - **Netzwerktechnik & Routing:** MikroTik RouterOS v7, Cisco-Komponenten, VLAN-Segmentierung (Trunking/ACLs), Inter-VLAN Routing, Static & OSPF Routing.
-- **Sanallaştırma & Server:** Proxmox VE Administration, Storage-Tiering (NVMe/USB-C/MicroSD), Standalone LXCs & Docker-Container Mimarisi.
+- **Virtualisierung & Server:** Proxmox VE Administration, Storage-Tiering (NVMe/USB-C/MicroSD), Standalone LXCs & Docker-Container Mimarisi.
 - **Windows Server & AD:** Active Directory (AD DS), Group Policy Objects (GPO), Windows Admin Center, deutsche **IGDLA** Berechtigungsstruktur.
 - **IT-Sicherheit & Fernzugriff:** Zero-Trust VPN (Tailscale Subnet Router), Cloudflare Tunnels, Ethical Hacking Grundlagen und Firewall-Regelwerke.
 
@@ -92,65 +92,63 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
 
 <h2 align="center">👨‍💻 Ausgewählte Projekte</h2>
 
+<!-- Flagship System Project -->
 <div align="center">
-  <!-- Top Highlight: Home Lab Infrastructure -->
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td align="center" width="600">
-        <a href="https://github.com/tafirnat/homelab-infrastructure">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=tafirnat&repo=homelab-infrastructure&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
-        </a>
-        <a href="https://github.com/tafirnat/homelab-infrastructure"><img src="https://img.shields.io/badge/Doku-DE%20%7C%20EN-51ffb1?style=flat-square&logo=github"></a>
-        <img src="https://img.shields.io/badge/Lizenz-MIT-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Tech-Proxmox%20%7C%20MikroTik%20%7C%20WinServer-orange?style=flat-square"><br/>
-        🖥️ <a href="https://github.com/tafirnat/homelab-infrastructure"><b>Personal Home Lab — System Architecture (Dokumentation)</b></a>
+      <td style="padding: 15px; border: 1px solid #51ffb1; border-radius: 8px;">
+        <h3 align="left">🖥️ <a href="https://github.com/tafirnat/homelab-infrastructure">homelab-infrastructure</a></h3>
+        <p align="left"><b>Personal Home Lab — System Architecture</b><br/>
+        Vollständige Dokumentation einer segmentierten Unternehmens-Simulation mit Proxmox VE, MikroTik RouterOS, Active Directory (IGDLA) und 3-Tier Storage.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Proxmox-VE-E0381E?style=flat-square&logo=proxmox&logoColor=white">
+          <img src="https://img.shields.io/badge/MikroTik-RouterOS-294156?style=flat-square&logo=mikrotik&logoColor=white">
+          <img src="https://img.shields.io/badge/Windows-Server_2025-0078D4?style=flat-square&logo=windows&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailscale-VPN-000000?style=flat-square&logo=tailscale&logoColor=white">
+          <img src="https://img.shields.io/badge/Doku-DE%20%7C%20EN-51ffb1?style=flat-square">
+        </p>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Web Tools & Apps -->
-  <table border="0">
+  <!-- App & Tool Projects Grid -->
+  <table width="100%">
     <tr>
-      <td align="center">
-        <a href="https://github.com/tafirnat/exam-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=tafirnat&repo=exam-app&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
-        </a>
-        <a href="https://tafirnat.github.io/exam-app/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
-        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
-        🌐 <a href="https://tafirnat.github.io/exam-app/">Live Demo</a>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <h4 align="left">📝 <a href="https://github.com/tafirnat/exam-app">exam-app</a></h4>
+        <p align="left">Interaktive Prüfungsvorbereitungs-App für FISI & IT-Zertifizierungen.</p>
+        <p align="left">
+          <a href="https://tafirnat.github.io/exam-app/"><img src="https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
+          <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange?style=flat-square">
+        </p>
       </td>
-      <td align="center">
-        <a href="https://github.com/tafirnat/Port-Quiz">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=tafirnat&repo=Port-Quiz&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
-        </a>
-        <a href="https://tafirnat.github.io/Port-Quiz/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
-        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
-        🌐 <a href="https://tafirnat.github.io/Port-Quiz/">Live Demo</a>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <h4 align="left">🔌 <a href="https://github.com/tafirnat/Port-Quiz">Port-Quiz</a></h4>
+        <p align="left">Lern-Quiz für bekannte Netzwerk-Ports & Protokolle (CCNA / FISI).</p>
+        <p align="left">
+          <a href="https://tafirnat.github.io/Port-Quiz/"><img src="https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
+          <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange?style=flat-square">
+        </p>
       </td>
     </tr>
-    <tr><td height="20"></td></tr>
     <tr>
-      <td align="center">
-        <a href="https://github.com/tafirnat/efficiency-calculator">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=tafirnat&repo=efficiency-calculator&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
-        </a>
-        <a href="https://tafirnat.github.io/efficiency-calculator/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
-        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
-        🌐 <a href="https://tafirnat.github.io/efficiency-calculator/">Live Demo</a>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <h4 align="left">⚡ <a href="https://github.com/tafirnat/efficiency-calculator">efficiency-calculator</a></h4>
+        <p align="left">Berechnungstool für Netzwerkeffizienz & Datendurchsatz.</p>
+        <p align="left">
+          <a href="https://tafirnat.github.io/efficiency-calculator/"><img src="https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
+          <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange?style=flat-square">
+        </p>
       </td>
-      <td align="center">
-        <a href="https://github.com/tafirnat/Daten-bertragung">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=tafirnat&repo=Daten-bertragung&theme=transparent&border_color=51ffb1&title_color=51ffb1&icon_color=51ffb1&text_color=586069&border_radius=10"><br/>
-        </a>
-        <a href="https://tafirnat.github.io/Daten-bertragung/"><img src="https://img.shields.io/badge/Demo-Online-brightgreen.svg"></a>
-        <img src="https://img.shields.io/badge/Lizenz-MIT-blue.svg">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange"><br/>
-        🌐 <a href="https://tafirnat.github.io/Daten-bertragung/">Live Demo</a>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <h4 align="left">📊 <a href="https://github.com/tafirnat/Daten-bertragung">Daten-Übertragung</a></h4>
+        <p align="left">Rechner für Datenübertragungsraten und Bandbreiten-Analysen.</p>
+        <p align="left">
+          <a href="https://tafirnat.github.io/Daten-bertragung/"><img src="https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square&logo=google-chrome&logoColor=white"></a>
+          <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange?style=flat-square">
+        </p>
       </td>
     </tr>
   </table>
@@ -191,5 +189,5 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafirnat&show_icons=true&theme=transparent&hide_border=true&title_color=51ffb1&text_color=586069&icon_color=51ffb1" alt="Rifats GitHub Stats" />
+  <img src="https://img.shields.io/badge/Focus-System_Integration_%26_Network_Security-51ffb1?style=for-the-badge&logo=github">
 </p>

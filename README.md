@@ -99,7 +99,7 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
       <td style="padding: 15px; border: 1px solid #51ffb1; border-radius: 8px;">
         <h3 align="left">🖥️ <a href="https://github.com/tafirnat/homelab-infrastructure">homelab-infrastructure</a></h3>
         <p align="left"><b>Personal Home Lab — System Architecture</b><br/>
-        Vollständige Dokumentation einer segmentierten Unternehmens-Simulation mit Proxmox VE, MikroTik RouterOS, Active Directory (IGDLA) und 3-Tier Storage.</p>
+        Dokumentation einer segmentierten Testumgebung mit Proxmox VE, MikroTik RouterOS, Active Directory (IGDLA) und 3-Tier Storage.</p>
         <p align="left">
           <img src="https://img.shields.io/badge/Proxmox-VE-E0381E?style=flat-square&logo=proxmox&logoColor=white">
           <img src="https://img.shields.io/badge/MikroTik-RouterOS-294156?style=flat-square&logo=mikrotik&logoColor=white">

@@ -188,6 +188,20 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
 
 ---
 
+<h2 align="center">📫 Kontakt & Vernetzung</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-System_Integration_%26_Network_Security-51ffb1?style=for-the-badge&logo=github">
+  <a href="https://rifatarslan.dev/?ref=WN-CB5A20" target="_blank">
+    <img src="https://img.shields.io/badge/Website-rifatarslan.dev-51ffb1?style=for-the-badge&logo=google-chrome&logoColor=2d3436">
+  </a>
+  <a href="https://www.linkedin.com/in/rifat-arslan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rifat%20Arslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.credly.com/users/rifat-arslan/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Systemintegration • Enterprise Networking • Proxmox • Active Directory</sub>
 </p>

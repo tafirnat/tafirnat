@@ -30,9 +30,9 @@
 Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwerken, Virtualisierung und sicherer Infrastruktur.
 
 - **Netzwerktechnik & Routing:** MikroTik RouterOS v7, Cisco-Komponenten, VLAN-Segmentierung (Trunking/ACLs), Inter-VLAN Routing, Static & OSPF Routing.
-- **Virtualisierung & Server:** Proxmox VE Administration, Storage-Tiering (NVMe/USB-C/MicroSD), Standalone LXCs & Docker-Container Mimarisi.
-- **Windows Server & AD:** Active Directory (AD DS), Group Policy Objects (GPO), Windows Admin Center, deutsche **IGDLA** Berechtigungsstruktur.
-- **IT-Sicherheit & Fernzugriff:** Zero-Trust VPN (Tailscale Subnet Router), Cloudflare Tunnels, Ethical Hacking Grundlagen und Firewall-Regelwerke.
+- **Virtualisierung & Server:** Proxmox VE Administration, Storage-Tiering (NVMe/USB-C/MicroSD), eigenständige LXC-Container und Docker-Architektur.
+- **Windows Server & AD:** Active Directory (AD DS), Group Policy Objects (GPO), Windows Admin Center, Berechtigungsstruktur nach **IGDLA**, NIC-Teaming, Storage Spaces und iSCSI.
+- **IT-Sicherheit & Fernzugriff:** VPN-Zugang ohne offene Ports (Tailscale Subnet Router), Cloudflare Tunnel, Grundlagen des Ethical Hacking und Firewall-Regelwerke.
 
 ---
 
@@ -97,15 +97,15 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
   <table width="100%">
     <tr>
       <td style="padding: 15px; border: 1px solid #51ffb1; border-radius: 8px;">
-        <h3 align="left">🖥️ <a href="https://github.com/tafirnat/homelab-infrastructure">homelab-infrastructure</a></h3>
-        <p align="left"><b>Personal Home Lab — System Architecture</b><br/>
-        Dokumentation einer segmentierten Testumgebung mit Proxmox VE, MikroTik RouterOS, Active Directory (IGDLA) und 3-Tier Storage.</p>
+        <h3 align="left">🖥️ <a href="https://github.com/tafirnat/windows-server-lab">windows-server-lab</a></h3>
+        <p align="left"><b>Windows-Server-Labor auf Proxmox VE — Dokumentation in acht Kapiteln</b><br/>
+        Benutzerverwaltung, Datenträgerverwaltung und RAID, Storage Spaces, Windows Admin Center, NIC-Teaming und Failover, iSCSI-Zielserver mit Initiator sowie IIS und DNS. Jedes Kapitel beschreibt nicht nur die Schritte, sondern die Begründung dahinter, und schliesst mit Verifikation über echte Befehlsausgaben und einer Fehlersuche-Tabelle ab.</p>
         <p align="left">
           <img src="https://img.shields.io/badge/Proxmox-VE-E0381E?style=flat-square&logo=proxmox&logoColor=white">
-          <img src="https://img.shields.io/badge/MikroTik-RouterOS-294156?style=flat-square&logo=mikrotik&logoColor=white">
-          <img src="https://img.shields.io/badge/Windows-Server_2025-0078D4?style=flat-square&logo=windows&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailscale-VPN-000000?style=flat-square&logo=tailscale&logoColor=white">
-          <img src="https://img.shields.io/badge/Doku-DE%20%7C%20EN-51ffb1?style=flat-square">
+          <img src="https://img.shields.io/badge/Windows-Server_2022_%7C_2025-0078D4?style=flat-square&logo=windows&logoColor=white">
+          <img src="https://img.shields.io/badge/Speicher-iSCSI%20%7C%20RAID%20%7C%20Storage%20Spaces-6C5CE7?style=flat-square">
+          <img src="https://img.shields.io/badge/Netzwerk-NIC--Teaming%20%7C%20DNS-294156?style=flat-square">
+          <img src="https://img.shields.io/badge/Doku-Deutsch-51ffb1?style=flat-square">
         </p>
       </td>
     </tr>
@@ -203,5 +203,5 @@ Mein Schwerpunkt liegt auf dem Herzschlag der IT: stabilen, segmentierten Netzwe
 </p>
 
 <p align="center">
-  <sub>Systemintegration • Enterprise Networking • Proxmox • Active Directory</sub>
+  <sub>Systemintegration • Netzwerksegmentierung • Proxmox • Active Directory</sub>
 </p>

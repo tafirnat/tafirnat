@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo,+ich+bin+Rifat!+👋;Fachinformatiker+Systemintegration+i.A.;Fokus:+Netzwerk+%26+Security;Proxmox+%7C+MikroTik+%7C+Windows+Server&center=true&size=28&color=51ffb1&width=600">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo,+ich+bin+Rifat!+👋;FISI+i.A.;Fokus:+Netzwerk+%26+Security;Proxmox+%7C+MikroTik+%7C+Windows+Server&center=true&size=28&color=51ffb1&width=600">
   </a>
 </h1>
 
@@ -22,11 +22,6 @@
   <a href="https://www.linkedin.com/in/rifat-arslan/" title="Aktuell im FISI-Pflichtpraktikum">
     <img src="https://img.shields.io/badge/Status-FISI--Pflichtpraktikum%20laufend-51ffb1?style=flat-square&logo=briefcase&logoColor=2d3436">
   </a>
-  <img src="https://img.shields.io/badge/Praktikumssuche-Beendet%20%E2%9C%93-51ffb1?style=flat-square&logo=checkmarx&logoColor=2d3436">
-</p>
-
-<p align="center">
-  <sub>💼 <b>Aktueller Status:</b> Praktikumsplatz erfolgreich gefunden — derzeit im betrieblichen IHK-Pflichtpraktikum im Rahmen der FISI-Ausbildung (keine aktive Praktikumssuche).</sub>
 </p>
 
 ---

@@ -19,9 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="https://rifatarslan.dev/praktikum?ref=WN-CB5A21" title="IHK-Pflichtpraktikum">
-    <img src="https://img.shields.io/badge/IHK--Pflichtpraktikum-Okt%202026–Jul%202027-51ffb1?style=flat-square&logo=briefcase&logoColor=2d3436">
+  <a href="https://www.linkedin.com/in/rifat-arslan/" title="Aktuell im FISI-Pflichtpraktikum">
+    <img src="https://img.shields.io/badge/Status-FISI--Pflichtpraktikum%20laufend-51ffb1?style=flat-square&logo=briefcase&logoColor=2d3436">
   </a>
+  <img src="https://img.shields.io/badge/Praktikumssuche-Beendet%20%E2%9C%93-51ffb1?style=flat-square&logo=checkmarx&logoColor=2d3436">
+</p>
+
+<p align="center">
+  <sub>💼 <b>Aktueller Status:</b> Praktikumsplatz erfolgreich gefunden — derzeit im betrieblichen IHK-Pflichtpraktikum im Rahmen der FISI-Ausbildung (keine aktive Praktikumssuche).</sub>
 </p>
 
 ---
